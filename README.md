@@ -73,9 +73,9 @@ const bruno = {
 
 -----
 
-## ⚙️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+## ⚙️ Tech Stack
 
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> <img align="center" alt="Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"> <img align="center" alt="dbt" height="40" width="50" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg"> <img align="center" alt="Snowflake" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg"> <img align="center" alt="Databricks" height="40" width="50" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg"> <img align="center" alt="PowerBI" height="40" width="50" src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"> <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </div>
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,mysql,pandas,numpy,dbt,snowflake,databricks,powerbi,git,github%26perline%3D10" /> </a> </div>
 
 -----
 
@@ -100,10 +100,7 @@ const bruno = {
 
 ## 📈 GitHub Stats
 
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSchadenlord%26show_icons%3Dtrue%26theme%3Ddefault%26hide_border%3Dtrue" alt="Bruno's GitHub stats" />
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSchadenlord%26layout%3Dcompact%26theme%3Ddefault%26hide_border%3Dtrue" alt="Top languages" /> </div>
+<div align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSchadenlord%26show_icons%3Dtrue%26theme%3Ddefault%26hide_border%3Dtrue"/> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSchadenlord%26layout%3Dcompact%26theme%3Ddefault%26hide_border%3Dtrue"/> </div>
 
 -----
 
