@@ -75,18 +75,7 @@ const bruno = {
 
 ## ⚙️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
-<div style="display: inline-block"><br>
-<img align="center" alt="Bruno-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Bruno-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Bruno-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-<img align="center" alt="Bruno-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-<img align="center" alt="Bruno-dbt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg">
-<img align="center" alt="Bruno-Snowflake" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg">
-<img align="center" alt="Bruno-Databricks" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg">
-<img align="center" alt="Bruno-PowerBI" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
-<img align="center" alt="Bruno-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Bruno-GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> <img align="center" alt="Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"> <img align="center" alt="dbt" height="40" width="50" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg"> <img align="center" alt="Snowflake" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg"> <img align="center" alt="Databricks" height="40" width="50" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg"> <img align="center" alt="PowerBI" height="40" width="50" src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"> <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </div>
 
 -----
 
@@ -111,12 +100,10 @@ const bruno = {
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Schadenlord&show_icons=true&theme=default" alt="Bruno's GitHub stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadenlord&layout=compact&theme=default" alt="Top languages" />
-</p>
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSchadenlord%26show_icons%3Dtrue%26theme%3Ddefault%26hide_border%3Dtrue" alt="Bruno's GitHub stats" />
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSchadenlord%26layout%3Dcompact%26theme%3Ddefault%26hide_border%3Dtrue" alt="Top languages" /> </div>
 
 -----
 
