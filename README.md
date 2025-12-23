@@ -24,9 +24,6 @@
 - 📑 **Academic:**
   Undergrad thesis in Economics on behavioral political economy, combining survey data, econometric models, and insights from authors like Caplan and Kahneman to study how voters perceive the economy.
 
-- 🤝 **Volunteer / Community:**
-  Actively involved with **Students for Liberty** in Florianópolis, promoting principles of individual liberty and contributing to community initiatives.
-
 ---
 
 ## 🛠️ Skills & Certifications
@@ -70,13 +67,6 @@ const bruno = {
   ]
 };
 ````
-
------
-
-## ⚙️ Tech Stack
-
-<div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,mysql,pandas,numpy,dbt,snowflake,databricks,powerbi,git,github%26perline%3D10" /> </a> </div>
-
 -----
 
 ## 📜 What I usually work on
@@ -95,12 +85,6 @@ const bruno = {
   * 🎬 Passionate about music and cinema, especially where they touch questions of meaning, memory, and human choice.
   * 🏃‍♂️ Training (gym & running) and planning future pilgrimages, including the Caminho de Santiago.
   * 🧎‍♂️ Interested in how faith, ethics, and economics meet in real life, not only in books.
-
------
-
-## 📈 GitHub Stats
-
-<div align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSchadenlord%26show_icons%3Dtrue%26theme%3Ddefault%26hide_border%3Dtrue"/> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSchadenlord%26layout%3Dcompact%26theme%3Ddefault%26hide_border%3Dtrue"/> </div>
 
 -----
 
