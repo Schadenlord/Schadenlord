@@ -2,7 +2,7 @@
 
 **Associate Forward Deployed Engineer @ Indicium AI** · Analytics Engineering · Economist
 
-I design and deliver data and AI solutions for enterprise clients, from discovery to production: tested data models, semantic layers, BI and LLM-based agents on governed data. Before the FDE track I co-led an analytics engineering team, and I teach data courses in corporate and community training programs. Client work is kept in private repositories; this profile contains personal and academic projects.
+I design and deliver data and AI solutions for enterprise clients, from discovery to production: tested data models, semantic layers, BI and LLM-based agents on governed data. Before the FDE track I co-led an analytics engineering team, and I teach data storytelling, advanced statistics and BI in corporate and community training programs. Client work is kept in private repositories; this profile contains personal and academic projects.
 
 **Data & AI:** SQL · dbt · Python · Databricks · Snowflake · Power BI · Git · CI/CD · LLM applications and agents
 
@@ -25,6 +25,6 @@ Adapted the *Survey of Americans and Economists on the Economy* (SAEE) to Brazil
 
 ### Outside work
 
-Literature, economic theory, running and strength training. Interested in where economics, ethics and faith meet.
+The liberal arts, from classic literature to philosophy and economic theory, plus running and strength training. Interested in where economics, ethics and faith meet.
 
 [LinkedIn](https://www.linkedin.com/in/bruno-schaden/) · [Email](mailto:guianovbr05@gmail.com)
