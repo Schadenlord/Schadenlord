@@ -10,8 +10,8 @@ I design and deliver data and AI solutions for enterprise clients, from discover
 
 ### Research
 
-**Collective Rationality in Check: A Behavioral Investigation of Economic Perceptions in Brazil** — undergraduate thesis in Economics, UDESC/ESAG, 2025.
-Adapted the *Survey of Americans and Economists on the Economy* (SAEE) to Brazil and estimated binary and ordered logit models to measure cognitive biases in economic beliefs and the role of economic literacy, with a fully reproducible Python analysis pipeline.
+**Collective Rationality in Check: A Behavioral Investigation of Economic Perceptions in Brazil** — undergraduate thesis in Economics, UDESC/ESAG, 2025 · graded A+ (9.9/10).
+Do voters disagree with economists for lack of information or because of ideology? I adapted the *Survey of Americans and Economists on the Economy* (SAEE) to Brazil, estimated binary and ordered logit models with an analysis pipeline written from scratch in Python, and built a model-based counterfactual, each economist's predicted answer without economics training, to separate the two effects. Ideology is the dominant filter; economic literacy corrects factual errors.
 [Repository record](https://repositorio.udesc.br/entities/publication/901b45d6-cd72-4373-8a18-3102709ab86c) · full text under embargo because the survey data is sensitive.
 
 ### Projects
