@@ -1,113 +1,24 @@
+# Bruno Schaden
 
-<h1 align="center">Hello, fellow &lt; Developers /&gt; <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Schaden (@Schadenlord)</h1>
-<h3 align="center">Team Lead Analytics Engineer · Data Analytics · Behavioral Economics</h3>
+**Associate Forward Deployed Engineer @ Indicium AI** · Analytics Engineering · Economist
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Bruno Schaden" width="380" />
+I work on data and AI solutions for enterprise clients: tested data models, semantic layers, BI and LLM-based agents on governed data. Client work is kept in private repositories; this profile contains personal and academic projects.
 
-## 👨‍💻 About Me
+**Data & AI:** SQL · dbt · Python · Databricks · Snowflake · Power BI · Git · CI/CD · LLM applications and agents
 
-- 👨‍💼 **Team Lead Analytics Engineer** at **Indicium**, working at the intersection of data, business, and strategy.
-- 📊 I design end-to-end analytics solutions: from **dbt** models and semantic layers to **Power BI** dashboards and KPI definitions.
-- 📈 I care about **metric consistency**, clear data contracts, and decision-ready dashboards that leadership actually uses.
-- 🧠 Background in **Economics**, with a focus on **Behavioral Economics** and econometrics — I like to understand not only what people do in the data, but *why* they do it.
-- 🧪 I work on analytics projects that support operations, finance, and leadership with measurable business impact.
+**Economics:** econometrics (logit, causal inference) · Stata · R · LaTeX · behavioral economics
 
-<br clear="right">
+### Projects
 
----
+| Repository | Description |
+|---|---|
+| [sinuca-decisions](https://github.com/Schadenlord/sinuca-decisions) | Decision log for a snooker group's rules, using an RFC (issues) → ADR (pull requests) workflow with GitHub templates |
+| [article_replication](https://github.com/Schadenlord/article_replication) | Replication and extension of Calcagno (2024), "Political systems, regime memory and economic freedom" (Stata and Python) |
+| [causal-inference](https://github.com/Schadenlord/causal-inference) | Python notebooks following *Causal Inference: The Mixtape* |
+| [slide-esag](https://github.com/Schadenlord/slide-esag) | LaTeX slide template for UDESC/ESAG presentations |
 
-## 🎓 Research & Volunteer Work
+### Outside work
 
-- 🧠 **Research:**
-  My research interests focus on behavioral economics and econometrics, examining how perception biases affect policy beliefs and decision-making. This helps me look beyond surface-level patterns and understand the mechanisms behind user and stakeholder behavior.
+Literature, economic theory, running and strength training. Interested in where economics, ethics and faith meet.
 
-- 📑 **Academic:**
-  Undergrad thesis in Economics on behavioral political economy, combining survey data, econometric models, and insights from authors like Caplan and Kahneman to study how voters perceive the economy.
-
----
-
-## 🛠️ Skills & Certifications
-
-- **Languages & Tools:** Python, SQL, dbt, Power BI, Excel
-- **Data & Analytics:** Analytics Engineering, Data Modeling (Silver → Gold), Dashboard Design, Metric Documentation
-- **Economics:** Behavioral Economics, Econometrics, Public Policy & Incentives
-- **Certifications:** Databricks, dbt, Power BI
-
-*I develop and maintain data models, design dashboards and reports, and communicate actionable insights to technical and non-technical stakeholders.*
-
----
-
-### 🔍 A little more about me...
-
-```javascript
-const bruno = {
-  location: "Florianópolis, Brazil",
-  role: "Team Lead Analytics Engineer @ Indicium",
-  background: ["Economics", "Behavioral Economics", "Data Analytics"],
-  askMeAbout: [
-    "analytics engineering",
-    "dbt projects & semantic models",
-    "Power BI storytelling",
-    "behavioral economics",
-    "public policy & incentives"
-  ],
-  technologies: {
-    languages: ["Python", "SQL"],
-    analyticsEngineering: ["dbt", "Snowflake", "Databricks"],
-    biTools: ["Power BI", "Excel"],
-    data: ["Pandas", "Snowpark"],
-    otherTools: ["Git", "VS Code", "Jupyter Notebook"]
-  },
-  interests: [
-    "storytelling with data",
-    "classical literature",
-    "macroeconomics",
-    "running & strength training",
-    "planning the Caminho de Santiago"
-  ]
-};
-````
------
-
-## 📜 What I usually work on
-
-  * 🧱 Building and maintaining **dbt** project structures and data models (Silver → Gold) for analytics.
-  * 📊 Designing **Power BI** dashboards for operations, vendor performance, financial KPIs, and executive views.
-  * 📏 Defining KPIs, documenting metrics, and aligning them across teams to avoid “multiple versions of the truth”.
-  * 🧮 Bringing econometric and statistical thinking into real business problems (not just academic toy examples).
-  * 🗣️ Working on **storytelling with data** so that charts support a clear narrative instead of being just decoration.
-
------
-
-## 📚 Beyond Data
-
-  * 📖 Avid reader of literature — from classic novels to contemporary economic theory and political philosophy.
-  * 🎬 Passionate about music and cinema, especially where they touch questions of meaning, memory, and human choice.
-  * 🏃‍♂️ Training (gym & running) and planning future pilgrimages, including the Caminho de Santiago.
-  * 🧎‍♂️ Interested in how faith, ethics, and economics meet in real life, not only in books.
-
------
-
-## 🤝 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/bruno-schaden/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:guianovbr05@gmail.com">
-<img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-</p>
-
------
-
----
-
-<p align="center">
-  <i>My goal is to make data accessible, trustworthy, and actionable — helping organizations move from noise to insight, and from insight to execution.</i>
-</p>
-
-<p align="center">
-  Feel free to reach out! Always happy to discuss analytics, data strategy, and how to turn insights into action.
-</p>
+[LinkedIn](https://www.linkedin.com/in/bruno-schaden/) · [Email](mailto:guianovbr05@gmail.com)
